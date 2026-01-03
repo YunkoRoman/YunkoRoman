@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Hi+I'm+Roman;Full-Stack+Engineer;End-to-End+Product+Architect;TypeScript+%26+Node.js+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Hi+I'm+Roman;Full-Stack+Engineer;End-to-End+Product+Architect;TypeScript+%26+React+Expert" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,46 +18,46 @@
 
 ### 👨‍💻 Engineering Profile
 
-I am a **Full-Stack Software Engineer** with over 3 years of experience developing complex web applications and data infrastructure[cite: 8]. My expertise lies in bridging the gap between high-performance backend architecture and intuitive frontend interfaces. [cite_start]I specialize in the **JavaScript/TypeScript ecosystem**, with a deep focus on **Data Engineering for AI** and real-time systems[cite: 9, 10].
+I am a **Full-Stack Software Engineer** with over 3 years of experience developing complex web applications and robust data infrastructure. I specialize in the **JavaScript/TypeScript ecosystem**, balancing high-performance backend architecture with intuitive, responsive frontend interfaces.
 
-* [cite_start]🏗️ **Architectural Excellence:** Expert in building modular microservices using **NestJS** and **TypeScript**[cite: 9, 60, 61].
-* [cite_start]🎨 **Frontend Craftsmanship:** Crafting responsive, high-performance SPAs and SSR applications with **React** and **Next.js**[cite: 59, 62].
-* [cite_start]🧩 **Logic & Complexity:** Experienced in solving intricate challenges, from **scheduling algorithms** for co-parenting platforms to **computer vision** for Food-AI[cite: 25, 26, 36, 37].
-* [cite_start]🤖 **AI Infrastructure:** Proven track record of building data pipelines that feed LLMs and integrating OpenAI APIs into production environments[cite: 16, 23, 31].
+* 🏗️ **Architectural Excellence:** Expert in building modular microservices and fault-tolerant backends using **NestJS** and **Node.js**.
+* 🎨 **Frontend Craftsmanship:** Creating high-performance SPAs and server-rendered applications with **React** and **Next.js**.
+* 🧩 **Logic & Complexity:** Experienced in solving intricate challenges, from **scheduling algorithms** to **computer vision** and real-time data streaming.
+* 🤖 **AI Infrastructure:** Proven track record of building data pipelines for LLMs and integrating OpenAI APIs into production environments.
 
 ---
 
 ### 🛠️ Technical Ecosystem
 
-#### ⚙️ Backend & Data Engineering
-> *Focus: OOP, System Design, AI Data Normalization*
+#### ⚙️ Backend & Systems Engineering
+> *Focus: OOP, System Design, AI Data Pipelines*
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,redis,mongodb,postgres,aws,docker" />
 </p>
 
-* [cite_start]**Core Stack:** Advanced **TypeScript**, **Node.js**, and **NestJS** for scalable server-side logic[cite: 57, 58, 60, 61, 63].
-* [cite_start]**Data Mastery:** Designing optimized schemas for **PostgreSQL**, **MongoDB**, and **Redis**[cite: 87, 88, 90].
-* [cite_start]**Real-Time:** Implementing low-latency communication via **WebSockets** and **Socket.IO**[cite: 39, 72].
+* **Core Stack:** Advanced **TypeScript**, **Node.js**, and **NestJS** for scalable logic.
+* **Data Management:** Designing optimized schemas for **PostgreSQL**, **MongoDB**, and **Redis**.
+* **Cloud & DevOps:** Deploying and managing environments using **AWS (Lambda, S3, EC2)** and **Docker**.
 
-#### 🎨 Frontend & Integration
-> *Focus: State Management, Performance, UX*
+#### 🎨 Frontend & User Experience
+> *Focus: State Management, Performance, UX/UI*
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,graphql,html,css,sass" />
 </p>
 
-* [cite_start]**Frameworks:** Building robust interfaces with **React** and **Next.js**[cite: 59, 62].
-* [cite_start]**State & APIs:** Managing complex data flows with **Redux**, **GraphQL**, and **RESTful APIs**[cite: 64, 66, 69].
-* [cite_start]**Styling:** Delivering polished designs using **SASS/LESS** and responsive design principles[cite: 84, 85].
+* **Modern Frameworks:** Building robust, scalable interfaces with **React** and **Next.js**.
+* **State & Data:** Expertly managing complex flows with **Redux**, **GraphQL**, and **RESTful APIs**.
+* **Design Systems:** Delivering polished, responsive designs using **SASS/LESS** and modern CSS.
 
 ---
 
 ### 🚀 Professional Highlights
 
-* **AI Data Foundation (Wizard):** Engineered scalable pipelines to harvest real-time e-commerce data for a $50M AI startup. [cite_start]Implemented advanced anti-bot evasion and data normalization (HTML to JSON) to ensure **99.9% data availability**[cite: 15, 16, 17, 18].
-* [cite_start]**Real-Time Industrial Monitoring (Quiris):** Developed a live QR-code scanning system for production lines using **Socket.IO**, providing millisecond-level updates to manufacturing dashboards[cite: 39, 40].
-* [cite_start]**Media Processing (Pulpit):** Built a video processing engine for live streams, handling recording and automated transcoding via **FFMPEG** with storage on Azure Blob[cite: 41, 42].
+* **AI Data Foundation (Wizard):** Engineered scalable pipelines to harvest real-time data for a $50M AI startup, ensuring **99.9% availability** via advanced anti-bot evasion and data normalization.
+* **Real-Time Industrial Monitoring (Quiris):** Developed a live QR-code scanning system for production lines using **Socket.IO**, providing instant updates to manufacturing dashboards.
+* **Media Processing (Pulpit):** Built a video processing engine for live streams, handling recording and automated transcoding via **FFMPEG** with storage on Azure.
 
 ---
 
